@@ -1,0 +1,3 @@
+"""
+CloudNote storage services.
+"""
